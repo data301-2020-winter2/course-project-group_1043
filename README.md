@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=360450&assignment_repo_type=GroupAssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group 1043 - {Short snappy Title of your project}
 
 - Your title can change over time.
 
@@ -13,11 +13,11 @@ We thought it would be interesting to observe what factors, besides the merits o
 
 ## Describe your dataset in about 150-200 words
 
-The Kickstarter project dataset was collected by Mickaël Mouillé, a user on a website called Kaggle.  Professionaly, he is the CTO at CTO at Biborg, although the data was used for a twitter bot and some of the other ideas of Mouillé's.  The data tracks the funds raised for various Kickstarter.com crowd-funded projects, including the number of backers, goal amount, amount raised, countries, successfulness, and dates of launch/completion.  The data was collected between 2009 and 2016 and serves mostly for interest/learning: as crowdfunding data (at least mostly not ethically) doesn't really have a financial value besides aiding the launch other crowdfunding platforms (i.e. trying to maximize successfulness of funding or given some fundamental change to platform structure).  It's not stated how the data was collected, but with 300k+ rows, it's safe to assme that it was done by some sort of bot that crawled Kickstarter.com during these years.
+The Kickstarter project dataset was collected by Mickaël Mouillé, a user on a website called Kaggle.  Professionaly, he is the CTO at Biborg, although the data was used for a twitter bot and some of the other ideas of Mouillé's.  The data tracks the funds raised for various Kickstarter.com crowd-funded projects, including the number of backers, goal amount, amount raised, countries, successfulness, and dates of launch/completion.  The data was collected between 2009 and 2016 and serves mostly for interest/learning: as crowdfunding data doesn't really have a financial value besides aiding the launch other crowdfunding platforms (i.e. trying to maximize successfulness of funding or given some fundamental change to platform structure).  It's not stated how the data was collected, but with 300k+ rows, it's safe to assme that it was done by some sort of bot that crawled Kickstarter.com during these years.
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Nicholas Pippo: I am a compsci major and enjoy biking in my spare time. 
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
