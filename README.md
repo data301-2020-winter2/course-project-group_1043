@@ -18,7 +18,7 @@ The Kickstarter project dataset was collected by Mickaël Mouillé, a user on a 
 ## Team Members
 
 - Nicholas Pippo: I am a compsci major and enjoy biking in my spare time. 
-- Person 2: one sentence about you!
+- Jordan Ribbink: I am a Computer Science major who also enjoys mountain biking.
 - Person 3: one sentence about you!
 
 ## References
